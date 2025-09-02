@@ -2,10 +2,6 @@
 Algerie
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="Algerie",AL24 News (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="Algerie",Amou Yazid TV (576p)
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 tvg-id="ElFadjerTV.dz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/El_Fadjer_TV.png/512px-El_Fadjer_TV.png" group-title="Algerie",El Fadjer TV (720p)
-https://stream.wsla.top/play/1.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture",StoryChannel TV (720p)
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="TV1.dz@SD" tvg-logo="https://i.imgur.com/F0DOrxX.png" group-title="Algerie",TV1 Algerian Television (1080p)
@@ -28,14 +24,14 @@ http://149.62.177.98:8000/play/a01x/index.m3u8
 http://149.62.177.98:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="Algerie",Canal Algérie (480p)
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="Algerie",Amou Yazid TV (576p)
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
 Canada
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="Canada",LCN [Geo-blocked]
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.fr" tvg-logo="https://i.imgur.com/Eta6gUq.png" group-title="Canada",Assemblée Nationale (1080p) [Not 24/7]
-http://anorigin.vodalys.com/live/live36/index36_12856975.m3u8?DVR=
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 tvg-id="CityNewsCalgary.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Calgary (720p)
@@ -50,8 +46,14 @@ https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
 #EXTINF:-1 tvg-id="WNetwork.ca@East" tvg-logo="https://i.imgur.com/t7XdBh8.png" group-title="Canada",W Network (720p)
 https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AssembleeNationale.fr" tvg-logo="https://i.imgur.com/Eta6gUq.png" group-title="Canada",Assemblée Nationale (1080p) [Not 24/7]
+http://anorigin.vodalys.com/live/live36/index36_12856975.m3u8?DVR=
 
 News
+#EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV.uk" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="News",Sky News Arabia (Portrait) (1280p) [Not 24/7]
@@ -74,12 +76,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV.uk" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="News",CGTN Arabic (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic (1080p)
@@ -124,6 +120,10 @@ https://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 
 Documentary
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Documentary",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="Documentary",Animaux
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 #EXTINF:-1 tvg-id="DossiersFBI.us@France" tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="Documentary",Dossiers FBI
@@ -134,9 +134,6 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="WildTV.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Documentary",Wild TV (1080p)
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Documentary",Al Jazeera Documentary (270p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-
 
 
 
