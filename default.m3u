@@ -6,7 +6,7 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture",StoryChannel TV (720p)
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="TV1.dz@SD" tvg-logo="https://i.imgur.com/F0DOrxX.png" group-title="Algerie",TV1 Algerian Television (1080p)
-http://149.62.177.98:8000/play/a00i/index.m3u8
+https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie
 #EXTINF:-1 tvg-id="TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="Algerie",TV2 Canal Algérie (1080p)
 http://149.62.177.98:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="TV3.dz@SD" tvg-logo="https://i.imgur.com/EQTGCbm.png" group-title="Algerie",TV3 Algeria (576p)
